@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4f6072</color>
+    <color name="colorPrimaryDark">#253647</color>
+    <color name="colorAccent">#BCCDE0</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="colorLeft">#DAE0DC</color>
+    <color name="colorRight">#EDD3C6</color>
+    <color name="colorGreenLight">#D4FF94</color>
+    <color name="peacefulColor">#BAAEA2</color>
+
+    <color name="colorBackground">#dae1dc</color>
+    <color name="colorText">#a7bbba</color>
+    <color name="colorBackkgroungText">#55737f</color>
+    <color name="colorSquareTextTop">#ebbeab</color>
+
+    <color name="colorViolet">#8A5082</color>
+    <color name="colorViolet2">#6F5F90</color>
+    <color name="colorBlueDark">#758EB7</color>
+    <color name="colorBlueLight">#B8DCE4</color>
+
+    <!-- region Main -->
+    <color name="colorMainBackground">#B8DCE4</color>
+    <color name="colorLeftSquare">#d49697</color>
+    <color name="colorRightSquare">#758EB7</color>
+    <!--endregion-->
+</resources>
